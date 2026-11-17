@@ -35,7 +35,7 @@ quality_report = pd.DataFrame({
 quality_report.to_csv(
     "outputs/initial_data_quality_report.csv"
 )
-print("\nInitial Data Quality Report:")
+print("Initial Data Quality Report:")
 print(quality_report)
 
 # 5. Inspect Duplicate Records
