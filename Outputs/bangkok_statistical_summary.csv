@@ -1,0 +1,91 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+id,30922.0,,,,1.0468689935436692e+18,6.181977445724701e+17,27934.0,7.310876955869658e+17,1.2615274668718715e+18,1.564907726272573e+18,1.779918930635786e+18
+listing_url,30922,30922,https://www.airbnb.com/rooms/27934,1,,,,,,,
+scrape_id,30922.0,,,,20260922161718.0,0.003906313164490444,20260922161718.0,20260922161718.0,20260922161718.0,20260922161718.0,20260922161718.0
+last_scraped,30922,4,2026-09-25,11355,,,,,,,
+source,2506,1,previous scrape,2506,,,,,,,
+name,30922,28554,BTS Nana｜Skyline View｜500Mbps WiFi｜Sukhumvit 11,34,,,,,,,
+description,30686,19780,You'll have a great time at this comfortable place to stay.,324,,,,,,,
+neighborhood_overview,0.0,,,,,,,,,,
+picture_url,30922,28634,https://a0.muscache.com/pictures/hosting/Hosting-1148287415937813402/original/405d1d3e-fe98-48cf-ab68-f33de9a4d766.jpeg,34,,,,,,,
+host_id,30922.0,,,,4.650967767433808e+16,2.7855414122695117e+17,14983.0,69120002.75,266539725.5,554580528.0,1.7794954050242552e+18
+host_url,30922,7989,https://www.airbnb.com/users/show/262132406,257,,,,,,,
+host_profile_id,30922.0,,,,1.484422298935798e+18,5.6277968806475704e+16,1.46250676324508e+18,1.463406164815762e+18,1.4685065029280704e+18,1.4704344557574943e+18,1.7796008769560663e+18
+host_profile_url,30922,7989,https://www.airbnb.com/users/profile/1469386032081940220,257,,,,,,,
+host_name,30922,6176,Loksu Baan,257,,,,,,,
+host_since,0.0,,,,,,,,,,
+hosts_time_as_user_years,30922.0,,,,6.213278571890563,4.129075972632946,0.0,2.0,7.0,10.0,17.0
+hosts_time_as_user_months,30922.0,,,,5.482860099605459,3.3390853762846118,0.0,3.0,5.0,8.0,11.0
+hosts_time_as_host_years,30922.0,,,,4.759265248043464,3.832375881428763,0.0,1.0,3.0,8.0,15.0
+hosts_time_as_host_months,30922.0,,,,5.58000776146433,3.3721290771638355,0.0,3.0,6.0,8.0,11.0
+host_location,23058,388,"Bangkok, Thailand",19541,,,,,,,
+host_about,18709,3812,偏爱简约现代风格,257,,,,,,,
+host_response_time,0.0,,,,,,,,,,
+host_response_rate,0.0,,,,,,,,,,
+host_acceptance_rate,0.0,,,,,,,,,,
+host_is_superhost,30922,2,f,19535,,,,,,,
+host_thumbnail_url,0.0,,,,,,,,,,
+host_picture_url,30922,7608,https://a0.muscache.com/im/pictures/user/User/original/78bdb909-696d-4062-acd5-9d85357d3d53.jpeg?aki_policy=profile_x_medium,257,,,,,,,
+host_neighbourhood,0.0,,,,,,,,,,
+host_listings_count,30922.0,,,,42.17819028523381,82.40271184822777,1.0,4.0,12.0,50.0,1217.0
+host_total_listings_count,0.0,,,,,,,,,,
+host_verifications,0.0,,,,,,,,,,
+host_has_profile_pic,30922,2,t,29484,,,,,,,
+host_identity_verified,30922,2,t,30411,,,,,,,
+neighbourhood,0.0,,,,,,,,,,
+neighbourhood_cleansed,30922,50,Vadhana,4486,,,,,,,
+neighbourhood_group_cleansed,0.0,,,,,,,,,,
+latitude,30922.0,,,,13.744583583788408,0.04030147818223426,13.5972364,13.72023,13.7399735,13.757618772354125,13.9533
+longitude,30922.0,,,,100.56346487499599,0.04896867428697484,100.32888545260954,100.53239,100.5669437,100.58592,100.88405
+property_type,30922,81,Entire rental unit,13515,,,,,,,
+room_type,30922,4,Entire home/apt,20811,,,,,,,
+accommodates,30922.0,,,,3.1063967401849815,2.242703599995014,1.0,2.0,2.0,4.0,16.0
+bathrooms,0.0,,,,,,,,,,
+bathrooms_text,30806,62,1 bath,15877,,,,,,,
+bedrooms,30903.0,,,,1.3689285829854707,1.2496435997692816,0.0,1.0,1.0,1.0,50.0
+beds,30497.0,,,,1.8291963143915795,1.8661015113135766,1.0,1.0,1.0,2.0,60.0
+amenities,30922,24133,"[""Washer"", ""First aid kit"", ""Kitchen"", ""Fire extinguisher"", ""Pool"", ""TV"", ""Wifi"", ""Dedicated workspace"", ""Free parking on premises"", ""Smoke alarm"", ""Carbon monoxide alarm"", ""Outdoor shower"", ""Exercise equipment"", ""Air conditioning""]",185,,,,,,,
+price,28663.0,,,,2910.8743003174823,17567.38988570562,88.0,1042.9,1601.33,2553.77,1140000.0
+price_quote_checkin_date,29460,288,2026-09-26,6298,,,,,,,
+price_quote_checkout_date,29460,329,2026-09-27,3782,,,,,,,
+price_quote_total_price,28663.0,,,,27993.83314691414,844195.1605909365,88.0,1900.0,4990.0,20500.16,98183440.1
+price_quote_price_per_night,28663.0,,,,2910.8743003174823,17567.38988570562,88.0,1042.9,1601.33,2553.77,1140000.0
+price_quote_raw,29460,23278,"{""quote"": {""taxes"": null, ""currency"": null, ""date_match"": null, ""service_fee"": null, ""total_price"": ""332.90"", ""cleaning_fee"": null, ""is_available"": true, ""discount_amount"": ""80.80"", ""price_per_night"": ""332.90"", ""nightly_subtotal"": ""413.70"", ""is_monthly_priced"": false, ""discounted_subtotal"": ""332.90"", ""raw_price_line_items"": [{""amount"": ""413.70"", ""item_type"": ""nightly_subtotal"", ""description"": ""1 night x ฿413.70"", ""price_string"": ""฿413.70""}, {""amount"": ""-80.80"", ""item_type"": ""discount_amount"", ""description"": ""Special offer"", ""price_string"": ""-฿80.80""}, {""amount"": ""332.90"", ""item_type"": ""discounted_subtotal"", ""description"": ""Price after discount"", ""price_string"": ""฿332.90""}], ""returned_checkin_date"": null, ""requested_checkin_date"": ""2026-09-24"", ""returned_checkout_date"": null, ""requested_checkout_date"": ""2026-09-25""}}",39,,,,,,,
+minimum_nights,30920.0,,,,12.8243531694696,35.237612739772196,1.0,1.0,2.0,20.0,1115.0
+maximum_nights,30920.0,,,,556228.4167205693,34538687.23485304,1.0,365.0,365.0,1125.0,2147483647.0
+minimum_minimum_nights,30920.0,,,,12.8243531694696,35.237612739772196,1.0,1.0,2.0,20.0,1115.0
+maximum_minimum_nights,30920.0,,,,14.804786545924967,38.07514757877314,1.0,1.0,2.0,25.0,1115.0
+minimum_maximum_nights,30920.0,,,,556221.1797218629,34538687.35128682,1.0,365.0,365.0,1125.0,2147483647.0
+maximum_maximum_nights,30920.0,,,,556228.4167205693,34538687.23485304,1.0,365.0,365.0,1125.0,2147483647.0
+minimum_nights_avg_ntm,30922.0,,,,14.130745100575641,36.988539320013665,1.0,1.0,2.0,21.0,1115.0
+maximum_nights_avg_ntm,30922.0,,,,556188.6371871158,34537570.569914386,1.0,365.0,365.0,1125.0,2147483647.0
+calendar_updated,0.0,,,,,,,,,,
+has_availability,30723,1,t,30723,,,,,,,
+availability_30,30922.0,,,,20.38548606170364,10.999758922808299,0.0,12.0,26.0,29.0,30.0
+availability_60,30922.0,,,,43.60956600478624,20.228657393451766,0.0,31.0,54.0,59.0,60.0
+availability_90,30922.0,,,,67.1659983183494,29.099625981956674,0.0,52.0,83.0,89.0,90.0
+availability_365,30922.0,,,,272.0546536446543,110.43448882230157,0.0,209.0,323.0,364.0,365.0
+calendar_last_scraped,30922,4,2026-09-25,11357,,,,,,,
+number_of_reviews,30922.0,,,,23.337623698337755,63.87279399126227,0.0,0.0,3.0,20.0,3555.0
+number_of_reviews_ltm,30922.0,,,,6.0126123795356055,18.481462966258277,0.0,0.0,1.0,5.0,1380.0
+number_of_reviews_l30d,30922.0,,,,0.35718905633529524,1.3630447447261234,0.0,0.0,0.0,0.0,108.0
+availability_eoy,30922.0,,,,72.84988034409159,31.392261011902068,0.0,57.0,89.0,97.0,99.0
+number_of_reviews_ly,30922.0,,,,5.125671043270164,15.934854564693254,0.0,0.0,0.0,4.0,1303.0
+estimated_occupancy_l365d,30922.0,,,,51.26350171399004,77.61728731784132,0.0,0.0,6.0,72.0,255.0
+estimated_revenue_l365d,28663.0,,,,116488.26829013013,467414.5861764443,0.0,0.0,12336.0,130304.5,58138420.0
+first_review,20950,3651,2026-01-02,95,,,,,,,
+last_review,20950,1957,2026-08-30,304,,,,,,,
+review_scores_rating,20950.0,,,,4.703519809069212,0.530019784844909,0.0,4.67,4.86,5.0,5.0
+review_scores_accuracy,20950.0,,,,4.7281560859188545,0.5108685503308776,1.0,4.69,4.88,5.0,5.0
+review_scores_cleanliness,20950.0,,,,4.690710262529834,0.512613678134728,0.0,4.62,4.84,5.0,5.0
+review_scores_checkin,20948.0,,,,4.7750019094901655,0.49025574895202784,0.0,4.77,4.92,5.0,5.0
+review_scores_communication,20949.0,,,,4.792460260632966,0.48968733805102366,0.0,4.8,4.95,5.0,5.0
+review_scores_location,20948.0,,,,4.674047641779645,0.4650845285303088,0.0,4.58,4.79,5.0,5.0
+review_scores_value,20947.0,,,,4.657463121210675,0.5350704810237592,0.0,4.6,4.8,5.0,5.0
+license,0.0,,,,,,,,,,
+instant_bookable,0.0,,,,,,,,,,
+calculated_host_listings_count,30922.0,,,,31.159756807451007,49.20050790113262,1.0,3.0,10.0,39.0,257.0
+calculated_host_listings_count_entire_homes,30922.0,,,,24.81572990104133,44.75772020517092,0.0,1.0,4.0,29.0,238.0
+calculated_host_listings_count_private_rooms,30922.0,,,,5.866664510704353,22.4727218823557,0.0,0.0,0.0,4.0,231.0
+calculated_host_listings_count_shared_rooms,30922.0,,,,0.3316085634823103,3.150616273763,0.0,0.0,0.0,0.0,62.0
+reviews_per_month,20950.0,,,,0.9896467780429593,1.7578169161125026,0.01,0.19,0.5,1.25,106.61
