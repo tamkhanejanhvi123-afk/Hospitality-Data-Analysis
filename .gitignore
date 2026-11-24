@@ -1,1 +1,5 @@
 Data/bangkok_listings.csv
+Week2_Python_Data_Pipeline/Data/
+Week2_Python_Data_Pipeline/data/
+Week2_Python_Data_Pipeline/output/
+Week2_Python_Data_Pipeline/*.log
